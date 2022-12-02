@@ -6,7 +6,7 @@ if __name__ == "__main__":
 
     if i == 0:
         print("s.")
-    elif i == 0:
+    elif i == 1:
         print(":")
     else:
         print("s:")
